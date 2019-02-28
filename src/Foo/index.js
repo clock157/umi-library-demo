@@ -7,7 +7,7 @@ export default function(props) {
         fontSize: props.size === 'large' ? 40 : 20,
       }}
     >
-      { props.children }
+      {props.children}
     </button>
   );
 }

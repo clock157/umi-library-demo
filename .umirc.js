@@ -1,5 +1,3 @@
 export default {
-    plugins: [
-        'umi-plugin-library'
-    ]
-}
+  plugins: ['umi-plugin-library'],
+};
